@@ -1,0 +1,20 @@
+# Data klasörü
+data/
+
+# Model dosyaları (çok büyük, GitHub limitini aşıyor)
+*.pkl
+
+# Sistem dosyaları
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
